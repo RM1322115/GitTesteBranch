@@ -6,7 +6,7 @@ namespace GitTesteBranch
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hàlo a Shaoghail!");
+            Console.WriteLine("Hallo Wereld!);
         }
     }
 }
